@@ -74,7 +74,8 @@ python src/predict.py "Your text to analyze"
 
 ### Training the Model
 
-If you want to retrain the model, use the - [Google Colab Notebook](https://colab.research.google.com/drive/1nDdALFJxJ2vyP9rzUtyaFXMnKyB7NSlT#scrollTo=qJmX6vgp_6s1) Colab notebook or run the code in Jupyter Notebook. The notebook is pre-configured to use the dataset provided in the `data/` directory.
+If you want to retrain the model, use the - 
+[Google Colab Notebook](https://colab.research.google.com/drive/1nDdALFJxJ2vyP9rzUtyaFXMnKyB7NSlT#scrollTo=qJmX6vgp_6s1) Colab notebook or run the code in Jupyter Notebook. The notebook is pre-configured to use the dataset provided in the `data/` directory.
 
 ## Model Details
 

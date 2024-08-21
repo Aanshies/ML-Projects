@@ -59,7 +59,8 @@ The dataset used for training the model is available for download.
 - **File:** `IMDB_Dataset.csv`
 - **Size:** 63.1MB
 - **Description:** Contains 50,000 movie reviews and corresponding sentiment labels.
-- **Download Link:** https://drive.google.com/file/d/1LQwJ0818n6ziD5oyICeS0j8Fj8V3w2Nx/view
+- **Download Link:** - [Google Colab Notebook]((https://drive.google.com/file/d/1LQwJ0818n6ziD5oyICeS0j8Fj8V3w2Nx/view))
+
 
 ## Usage
 
@@ -73,7 +74,7 @@ python src/predict.py "Your text to analyze"
 
 ### Training the Model
 
-If you want to retrain the model, use the `https://colab.research.google.com/drive/1nDdALFJxJ2vyP9rzUtyaFXMnKyB7NSlT#scrollTo=qJmX6vgp_6s1` Colab notebook or run the code in Jupyter Notebook. The notebook is pre-configured to use the dataset provided in the `data/` directory.
+If you want to retrain the model, use the - [Google Colab Notebook](https://colab.research.google.com/drive/1nDdALFJxJ2vyP9rzUtyaFXMnKyB7NSlT#scrollTo=qJmX6vgp_6s1) Colab notebook or run the code in Jupyter Notebook. The notebook is pre-configured to use the dataset provided in the `data/` directory.
 
 ## Model Details
 

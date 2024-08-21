@@ -52,11 +52,14 @@ pip install -r requirements.txt
 
 ### 3. Dataset
 
-The dataset used for training the model is included in the `data/` directory.
+### 3. Dataset
+
+The dataset used for training the model is available for download.
 
 - **File:** `IMDB_Dataset.csv`
-- **Size:** (Include file size)
-- **Description:** Contains movie reviews and corresponding sentiment labels.
+- **Size:** 63.1MB
+- **Description:** Contains 50,000 movie reviews and corresponding sentiment labels.
+- **Download Link:** https://drive.google.com/file/d/1LQwJ0818n6ziD5oyICeS0j8Fj8V3w2Nx/view
 
 ## Usage
 
@@ -70,7 +73,7 @@ python src/predict.py "Your text to analyze"
 
 ### Training the Model
 
-If you want to retrain the model, use the `notebooks/SentimentSavvy_Model.ipynb` Colab notebook or run the code in Jupyter Notebook. The notebook is pre-configured to use the dataset provided in the `data/` directory.
+If you want to retrain the model, use the `https://colab.research.google.com/drive/1nDdALFJxJ2vyP9rzUtyaFXMnKyB7NSlT#scrollTo=qJmX6vgp_6s1` Colab notebook or run the code in Jupyter Notebook. The notebook is pre-configured to use the dataset provided in the `data/` directory.
 
 ## Model Details
 
@@ -110,7 +113,7 @@ The model's performance is evaluated using the following metrics:
 
 The training process and code are also available in a Google Colab notebook. You can use the notebook to modify, retrain, and experiment with the model.
 
-- [Open Colab Notebook](https://colab.research.google.com/drive/your-colab-link)
+- https://colab.research.google.com/drive/1nDdALFJxJ2vyP9rzUtyaFXMnKyB7NSlT#scrollTo=qJmX6vgp_6s1
 
 ## Contributing
 

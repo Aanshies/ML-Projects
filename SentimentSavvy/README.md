@@ -115,7 +115,8 @@ The model's performance is evaluated using the following metrics:
 
 The training process and code are also available in a Google Colab notebook. You can use the notebook to modify, retrain, and experiment with the model.
 
-- https://colab.research.google.com/drive/1nDdALFJxJ2vyP9rzUtyaFXMnKyB7NSlT#scrollTo=qJmX6vgp_6s1
+- [Google Colab Notebook](https://colab.research.google.com/drive/1nDdALFJxJ2vyP9rzUtyaFXMnKyB7NSlT#scrollTo=qJmX6vgp_6s1)
+
 
 ## Contributing
 

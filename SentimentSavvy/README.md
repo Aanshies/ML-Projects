@@ -38,7 +38,7 @@ SentimentSavvy is a sentiment analysis model that classifies text data into posi
 Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/yourusername/SentimentSavvy.git
+https://github.com/Aanshies/ML-Projects/tree/main/SentimentSavvy
 ```
 
 ### 2. Install Dependencies
@@ -46,7 +46,7 @@ git clone https://github.com/yourusername/SentimentSavvy.git
 Navigate to the project directory and install the required Python packages using pip:
 
 ```bash
-cd SentimentSavvy
+cd ml-projects/SentimentSavvy
 pip install -r requirements.txt
 ```
 

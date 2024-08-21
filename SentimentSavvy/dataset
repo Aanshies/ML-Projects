@@ -1,0 +1,33 @@
+## Dataset
+
+The dataset used for training the model is available for download from Google Drive. Due to its large size, it is hosted externally.
+
+- **File:** `IMDB_Dataset.csv`
+- **Size:** 63.1MB
+- **Description:** Contains 50,000 movie reviews and corresponding sentiment labels.
+- **Download Link:** [Google Drive Link](https://drive.google.com/file/d/1LQwJ0818n6ziD5oyICeS0j8Fj8V3w2Nx/view)
+
+### Instructions
+
+1. **Download the Dataset:**
+   - Click the [Google Drive Link](https://drive.google.com/file/d/1LQwJ0818n6ziD5oyICeS0j8Fj8V3w2Nx/view) to access the file.
+   - In Google Drive, click the download icon (a downward arrow) to save the file to your local machine.
+
+2. **Place the Dataset:**
+   - After downloading, move or copy the `IMDB_Dataset.csv` file to the `data/` directory of your project. If the `data/` directory does not exist, create it.
+
+3. **Verify the Dataset:**
+   - Ensure the file is correctly placed in the `data/` directory. The file path should be `data/IMDB_Dataset.csv`.
+
+4. **File Size and Format:**
+   - Ensure the downloaded file size matches the stated size (63.1MB) to confirm it downloaded correctly.
+   - The file should be in CSV format as described. 
+
+### Troubleshooting
+
+- **Download Issues:** If you encounter issues with downloading, check your internet connection or try accessing the file from a different browser or device.
+- **File Integrity:** If the file seems corrupted or does not open correctly, try downloading it again. You can also verify the file size to ensure it matches the expected size.
+
+### Notes
+
+- If you need to use a different dataset or have specific requirements, adjust the file path and instructions accordingly.
